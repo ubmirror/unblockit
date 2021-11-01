@@ -1,0 +1,8 @@
+image: ruby:2.7
+
+pages:
+  script:
+  - echo "nothing to do"
+  artifacts:
+    paths:
+      - public
