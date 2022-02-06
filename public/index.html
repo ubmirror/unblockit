@@ -301,7 +301,7 @@
         else if(domain.match('unblckd')){
           var sitename = domain.replace(/https?:\/\//, '');var btns = document.getElementsByClassName('btn');var rgxp = new RegExp(sitename, "g");
           for (var i=0;i<btns.length;i++){if (btns[i].href.match(rgxp)){sitename = btns[i].innerText.substr(1);}}
-          document.getElementById('noticeContainer').style.display='block';document.getElementById('noticeContainer').innerHTML = '<div class="alert" style="width:100%;padding-top:14px;"><span style="color:#d71616;font-weight:bold;">Error: </span><span style="font-weight:bold">'+sitname+'</span> seems to be down (Error '+status+')<br><span style="font-size:16px"><a href="'+domain+request+'" title="Try URL again">Click here</a> to try again or pick another site below</span></div>';
+          document.getElementById('noticeContainer').style.display='block';document.getElementById('noticeContainer').innerHTML = '<div class="alert" style="width:100%;padding-top:14px;"><span style="color:#d71616;font-weight:bold;">Error: </span><span style="font-weight:bold">'+sitename+'</span> seems to be down (Error '+status+')<br><span style="font-size:16px"><a href="'+domain+request+'" title="Try URL again">Click here</a> to try again or pick another site below</span></div>';
         }
       }
     </script>
