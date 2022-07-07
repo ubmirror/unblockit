@@ -1,7 +1,7 @@
 https://unblock_it.gitlab.io/site/
-https://proxy-bay.one
+https://proxy-bay.top
 https://torrends.to
-https://proxy-bay.one
+https://proxy-bay.top
 https://1337x.unblockit.name
 https://yts.unblockit.name
 https://eztv.unblockit.name
@@ -61,6 +61,7 @@ https://lookmovie.unblockit.name
 https://bstsrs.one
 https://soapgate.org
 https://kissanime.unblockit.name
+https://reboot.tube
 https://seriestop.unblockit.name
 https://onionflix.org
 http://livetv.unblckd.pw/enx/
