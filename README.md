@@ -2,4 +2,4 @@
 
 The current Unblockit domain is: https://unblockit.asia
 
-The current Gitlab domain is: https://unblock_it.gitlab.io/site/
+The current Mirror is: https://unblockit.pages.dev
