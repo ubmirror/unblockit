@@ -1,5 +1,5 @@
 # Unblockit on Gitlab
 
-The current Unblockit domain is: https://unblockit.dad
+The current Unblockit domain is: https://unblockit.africa
 
 The current Mirror is: https://unblockit.pages.dev
