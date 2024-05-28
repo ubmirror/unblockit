@@ -3,14 +3,12 @@ https://torrends.to
 https://proxybay.unblockit.ong
 https://yts.unblockit.ong
 https://eztv.unblockit.ong
-https://magnetdl.unblockit.ong
 https://limetorrents.unblockit.ong
 https://torlock.unblockit.ong
 https://torrentfunk.unblockit.ong
 https://glotorrents.unblockit.ong
 https://torrentdownloads.unblockit.ong
 https://yifytorrent.unblockit.ong
-https://extratorrent.unblockit.ong
 https://torrentgalaxy.unblockit.ong
 https://demonoid.unblockit.ong
 https://watchsomuch.unblockit.ong
@@ -24,6 +22,8 @@ https://www.elitetorrent.com
 https://torrentdownload.unblockit.ong
 https://zonatorrent.unblockit.ong
 https://snowfl.unblockit.ong
+https://extratorrent.unblockit.ong
+https://magnetdl.unblockit.ong
 https://1337x.unblockit.ong
 https://solarmovie.unblockit.ong/home
 https://pw1.unblockit.ong
